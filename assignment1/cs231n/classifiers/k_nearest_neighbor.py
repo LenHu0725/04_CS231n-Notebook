@@ -6,7 +6,7 @@ class KNearestNeighbor(object):
   """ a kNN classifier with L2 distance """
 
   def __init__(self):
-    pass
+    pass 
 
   def train(self, X, y):
     """
